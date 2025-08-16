@@ -1,0 +1,6 @@
+@PocIdentity.Api_HostAddress = http://localhost:5250
+
+GET {{PocIdentity.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
